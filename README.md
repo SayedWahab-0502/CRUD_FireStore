@@ -11,5 +11,5 @@ Basically this app contain 3 activities i.e(MainActivity, Main2Activity, Update_
 
 <img src="images/longpress_delete_update.png" width="400"/> <img src="images/update_activity.png" width="400" hspace="20"/>
 
-<img src="images/data_deleted.png" width="400"/> <img src="images/data_updated.png" width="400" hspace="20"/> 
+<img src="images/data_updated.png" width="400"/> <img src="images//data_deleted.png" width="400" hspace="20"/> 
 
