@@ -7,27 +7,9 @@ Basically this app contain 3 activities i.e(MainActivity, Main2Activity, Update_
 
 <h1>Screenshots of the Application</h1>
 
-<p>MainScreen :- </p>
+<img src="images/main_activity.png" width="400"/> <img src="images/list_view_activity.png" width="400" />
 
-<img src="images/main_activity.png" height="450px" width="350px" />
+<img src="images/longpress_delete_update.png" width="400"/> <img src="images/update_activity.png" width="400"/>
 
+<img src="images/data_deleted.png" width="400"/> <img src="images/data_updated.png" width="400"/> 
 
-<p>List of Created data :-</p>
-
-<img src="images/list_view_activity.png" height="500px" width="350px" />
-
-<p>AlertDialog after LongPress :-</p>
-
-<img src="images/longpress_delete_update.png" height="500px" width="350px" />
-
-<p>Update Activity :-</p>
-
-<img src="images/update_activity.png" height="500px" width="350px" />
-
-<p>Data after Updation :-</p>
-
-<img src="images/data_updated.png" height="500px" width="350px" />
-
-<p>Data after Deletion :-</p>
-
-<img src="images/data_deleted.png" height="500px" width="350px" />
